@@ -11,3 +11,9 @@ The TfidfVectorizer converts a collection of raw documents into a matrix of TF-I
 
 # SGD Algorithm:
 Gradient descent is an algorithm used to perform optimization and by far the most common way to optimize neural networks. Batch gradient descent performs unnecessary calculations for large datasets, as it recomputes gradients for related examples before each parameter update. SGD does away with this redundancy by performing one update at a time. Therefore SGD is much faster and can also be used to learn online. SGD performs frequent updates with a high deviation that cause the objective function to oscillate heavily.
+
+# IMPLEMENTATION
+- The vectorisation concept which converts the text data into the numerical data for input of algorithm. 
+- The input doesn’t contain any punctuations and stop words in the data set which gives the more accuracy.
+- The fundamental point of stochastic gradient descent  is to create a model which predicts class labels of information occurrences in the testing set which are given only the features. 
+- Stochastic gradient descent algorithm is a splendid solution for the little sample size issue, by developing an isolating the hyperplane to finish the classification.
