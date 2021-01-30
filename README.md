@@ -17,3 +17,19 @@ Gradient descent is an algorithm used to perform optimization and by far the mos
 - The input doesn’t contain any punctuations and stop words in the data set which gives the more accuracy.
 - The fundamental point of stochastic gradient descent  is to create a model which predicts class labels of information occurrences in the testing set which are given only the features. 
 - Stochastic gradient descent algorithm is a splendid solution for the little sample size issue, by developing an isolating the hyperplane to finish the classification.
+
+# RESULTS
+The fake news detection project has been completed using Term Frequency–Inverse Document Frequency (TF–IDF), Count Vectoriser(CV) and SGD classifier which achieves an accuracy of 94% with the test datasets.
+
+# FUTURE SCOPE
+- To build a software model which can differentiate between fake and real news.
+- To develop an android app which will trigger on a copy of the text and when user will click on application popup the data or copied text will be sent to the server to check and as per the authenticity will be displayed to the user. 
+- To review current industry practices and researches regarding stopping the spread of fake news.
+- It is difficult for illiterates to use the existing solution so we need to develop an inbuilt software for every laptop , phone to detect the fake news. 
+The result of this project will be valuable to the researchers as well as to social media giants in developing better practice and tools for detecting fake news.
+
+# CONCLUSION
+- Using stochastic gradient descent classifier, the fake news detection which can effectively identify the fake news from its contents. The fake news can be identified by the user and genuine content can be retained by the user.
+- The proposed classifier achieves 94 % accuracy while classifying the series of datasets. 
+- It is crucial that we have some system for detecting fake news, or at the very least, an awareness that not everything we read on social media may be true, so we always need to be thinking critically.
+- This way we can help people to take more correct decisions and they will not be fooled into thinking what others want to manipulate them into believing.
