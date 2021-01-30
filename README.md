@@ -1,4 +1,4 @@
-# Team-Brighter-2021-Fake-Reviews-Detection
+# Team-Brighter-2021-Fake-News-Detection
 Fake news has become a major problem in this modern world . The goal of fake news detection is to classify the real and fake news articles. In order to attract the readers, social media and news article writers publish the fake news. The internet has become a platform to get income. But with the popularisation of the Internet, it is challenging to develop fake news filters that can effectively eliminate unwanted news before they publish. The purpose of the work is to come up with a solution that can be utilised by users to detect and filter out sites containing fake and misleading information. We use simple and selected features of the data set which is used to identify whether the news article is fake or real. In this paper, propose a novel method for fake news detection using SGD classifier which achieves an accuracy of 94% with the test data sets.
 
 # What is TfidfVectorizer?
